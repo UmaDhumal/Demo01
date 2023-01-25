@@ -9,6 +9,10 @@ public class Demo
 	{
 		System.out.println("M2 Method by Shobha");
 	}
+	public void m3()
+	{
+		System.out.println("M3 Method by Anil");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello World");
